@@ -1,0 +1,22 @@
+﻿Сборка начата 06.12.2021 14:46:46.
+Уровень детализации журнала: Normal.     1>Проект "C:\Documents\3 semestr ira\MIV-2021\StaticLibrary\StaticLibrary.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\StaticLibrary.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\StaticLibrary.pdb" /Gd /TP /analyze- /FC /errorReport:prompt StaticLibrary.cpp
+         StaticLibrary.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\Lib.exe /OUT:"C:\Documents\3 semestr ira\MIV-2021\MIV-2021\Debug\StaticLibrary.lib" /NOLOGO /MACHINE:X86 Debug\StaticLibrary.obj
+         StaticLibrary.vcxproj -> C:\Documents\3 semestr ira\MIV-2021\MIV-2021\Debug\StaticLibrary.lib
+       CopyFilesToOutputDirectory:
+         Копирование файла из "C:\Documents\3 semestr ira\MIV-2021\StaticLibrary\Debug\StaticLibrary.pdb" в "C:\Documents\3 semestr ira\MIV-2021\MIV-2021\Debug\StaticLibrary.pdb".
+       FinalizeBuildStatus:
+         Файл "Debug\StaticLibrary.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\StaticLibrary.tlog\StaticLibrary.lastbuildstate".
+     1>Сборка проекта "C:\Documents\3 semestr ira\MIV-2021\StaticLibrary\StaticLibrary.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.32

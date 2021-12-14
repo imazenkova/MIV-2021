@@ -1,0 +1,2 @@
+C:\Documents\3 semestr ira\MIV-2021\MIV-2021\Debug\StaticLibrary.pdb
+C:\Documents\3 semestr ira\MIV-2021\StaticLibrary\Debug\StaticLibrary.pdb

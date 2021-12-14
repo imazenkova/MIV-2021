@@ -1,0 +1,56 @@
+procedure count(byte n) 
+{
+   create byte i = 1;
+   iterate (i < n) 
+   {
+      output i;
+      output ' ';
+      i = i + 1;
+   }
+   outputln i;
+}
+
+byte function incr(byte n)
+{
+   create byte res = n + 1;
+   back res;
+}
+
+main
+{
+   outputln 'Считаем до 10: ';
+   count(10);
+
+   create byte t = 45 % 2;
+   outputln ' ';
+   output '45 четное? : ';
+   where (t ~ 0)
+   {
+      outputln 'правда';
+   }
+   else
+   {
+      outputln 'ложь';
+   }
+   outputln ' ';
+   create byte i = 5;
+   i = incr(i);
+   output 'incr(5) = ';
+   outputln i;
+   outputln ' ';
+   create string str = '29';
+   output 'Строка 29 в число + 2: ';
+   create byte num = strtobyte(str) + 2;
+   outputln num;
+   create byte len = slen(str);
+   output 'Длина строки: ';
+   outputln len;
+
+   create byte octo = o126;
+   output 'o126 = ';
+   outputln octo;
+
+   create byte n = 5;
+   create byte res = (1 + n << 2) * 3 >> 2 / 2;
+   outputln res;
+}

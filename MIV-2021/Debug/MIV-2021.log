@@ -1,0 +1,34 @@
+﻿Сборка начата 14.12.2021 17:19:48.
+Уровень детализации журнала: Normal.     1>Проект "C:\Documents\3 semestr ira\MIV-2021\MIV-2021\MIV-2021.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\MIV-2021.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _CRT_SECURE_NO_WARNINGS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Generation.cpp
+         Generation.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents\3 semestr ira\MIV-2021\MIV-2021\Debug\MIV-2021.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Documents\3 semestr ira\MIV-2021\MIV-2021\Debug\MIV-2021.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents\3 semestr ira\MIV-2021\MIV-2021\Debug\MIV-2021.lib" /MACHINE:X86 Debug\Div.obj
+         Debug\Error.obj
+         Debug\FST.obj
+         Debug\Generation.obj
+         Debug\GRB.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\LexAnalisys.obj
+         Debug\Log.obj
+         Debug\LT.obj
+         Debug\MFST.obj
+         "Debug\MIV-2021.obj"
+         Debug\Parm.obj
+         Debug\Polish.obj
+         Debug\SemAnalysis.obj
+         MIV-2021.vcxproj -> C:\Documents\3 semestr ira\MIV-2021\MIV-2021\Debug\MIV-2021.exe
+       FinalizeBuildStatus:
+         Файл "Debug\MIV-2021.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\MIV-2021.tlog\MIV-2021.lastbuildstate".
+     1>Сборка проекта "C:\Documents\3 semestr ira\MIV-2021\MIV-2021\MIV-2021.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.51
